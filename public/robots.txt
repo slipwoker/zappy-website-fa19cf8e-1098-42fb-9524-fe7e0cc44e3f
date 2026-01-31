@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://watch-collect-fa19cf8e.zappy5.app/sitemap.xml

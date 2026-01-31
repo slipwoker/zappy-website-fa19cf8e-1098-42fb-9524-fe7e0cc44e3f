@@ -1,0 +1,53 @@
+# Watch collect — Generative Engine Optimization Map
+
+> A watches business.
+
+---
+
+## Pages
+
+### Home
+https://watch-collect-fa19cf8e.zappy5.app
+
+### Collections
+https://watch-collect-fa19cf8e.zappy5.app/collections
+
+### Craft & Materials
+https://watch-collect-fa19cf8e.zappy5.app/craft
+
+### Contact
+https://watch-collect-fa19cf8e.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://watch-collect-fa19cf8e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://watch-collect-fa19cf8e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://watch-collect-fa19cf8e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Watch collect
+Watch collect is a business in the watches industry.
+
+## Target Audience
+- חובבי שעונים יוקרתיים
+
+## Industry
+watches
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://watch-collect-fa19cf8e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://watch-collect-fa19cf8e.zappy5.app/robots.txt
